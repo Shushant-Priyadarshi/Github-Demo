@@ -1,2 +1,3 @@
 # Github-Demo
-My first github repository
+My first GitHub repository. <br>
+Author - Shushant Priyadarshi
